@@ -1,0 +1,7 @@
+Deploying troops...
+---End of Day---
+Battles: 5
+---General Evaluation---
+General 0 deployed 185 Jedi troops and 69 Sith troops, and 127/254 troops survived.
+General 1 deployed 19 Jedi troops and 0 Sith troops, and 0/19 troops survived.
+General 2 deployed 111 Jedi troops and 24 Sith troops, and 95/135 troops survived.

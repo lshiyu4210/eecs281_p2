@@ -1,0 +1,7 @@
+COMMENT: PR mode generating the same sequence of deployments.
+MODE: PR
+NUM_GENERALS: 3
+NUM_PLANETS: 2
+RANDOM_SEED: 104
+NUM_DEPLOYMENTS: 12
+ARRIVAL_RATE: 10

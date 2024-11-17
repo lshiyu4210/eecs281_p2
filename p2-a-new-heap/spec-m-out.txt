@@ -1,0 +1,9 @@
+Deploying troops...
+Median troops lost on planet 0 at time 2 is 78.
+Median troops lost on planet 1 at time 2 is 38.
+Median troops lost on planet 0 at time 3 is 58.
+Median troops lost on planet 1 at time 3 is 38.
+Median troops lost on planet 0 at time 4 is 30.
+Median troops lost on planet 1 at time 4 is 38.
+---End of Day---
+Battles: 5

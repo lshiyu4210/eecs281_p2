@@ -1,0 +1,15 @@
+Everything below the line of dashes is a valid error message.
+If an input is valid (not one of the INV test cases) and you
+output one of these allowed error messages, the autograder
+will show you the error message, which will help you with
+debugging.
+
+The first error message is not in the "Errors you must check
+for" section, but is still useful for debugging purposes.
+-----------------------------------------
+Unknown command line option
+Invalid decreasing timestamp
+Invalid general ID
+Invalid planet ID
+Invalid force sensntivity level
+Invalid number of troops
